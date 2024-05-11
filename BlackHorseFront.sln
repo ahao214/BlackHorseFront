@@ -5,6 +5,15 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackHorseFront", "BlackHorseFront\BlackHorseFront.csproj", "{BB9AEEBA-B1F7-47E1-95BA-C6B2BB65EE6A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{06A978BE-8B32-497D-ADA6-5837A8E810DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stage01", "Stage01", "{165DE5E9-0A71-445B-9783-48D1C25BDF4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day01", "Day01", "{6308A759-2004-412F-903B-799DCFB38E21}"
+	ProjectSection(SolutionItems) = preProject
+		04-标题标签.html = 04-标题标签.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +27,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{165DE5E9-0A71-445B-9783-48D1C25BDF4B} = {06A978BE-8B32-497D-ADA6-5837A8E810DB}
+		{6308A759-2004-412F-903B-799DCFB38E21} = {165DE5E9-0A71-445B-9783-48D1C25BDF4B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AAF54E44-1BDF-463F-9D2F-B9723EF79B6B}
