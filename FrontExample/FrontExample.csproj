@@ -53,6 +53,7 @@
     <Content Include="Stage01\Day01\images\2.jpg" />
     <Content Include="Stage01\Day01\images\3.jpg" />
     <Content Include="Stage01\Day01\images\timg.gif" />
+    <Content Include="Stage01\Day01\test.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
