@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Stage01\Day01\" />
+    <Folder Include="Stage01\Day02\" />
   </ItemGroup>
 
 </Project>
