@@ -49,6 +49,7 @@
     <Content Include="Stage01\Day01\10-图像标签.html" />
     <Content Include="Stage01\Day01\11-链接标签.html" />
     <Content Include="Stage01\Day01\12-锚点定位.html" />
+    <Content Include="Stage01\Day01\13-base标签.html" />
     <Content Include="Stage01\Day01\images\1.jpg" />
     <Content Include="Stage01\Day01\images\2.jpg" />
     <Content Include="Stage01\Day01\images\3.jpg" />
