@@ -72,6 +72,7 @@
     <Content Include="Stage01\Day02\11 google.html" />
     <Content Include="Stage01\Day02\btn.png" />
     <Content Include="Stage01\Day02\css\style.css" />
+    <Content Include="Stage01\Day02\综合案例\demo.html" />
     <Content Include="Stage01\Day02\综合案例\images\btn.png" />
     <Content Include="Stage01\Day02\综合案例\images\ico1.png" />
     <Content Include="Stage01\Day02\综合案例\images\ico2.png" />
@@ -79,6 +80,7 @@
     <Content Include="Stage01\Day02\综合案例\images\login.png" />
     <Content Include="Stage01\Day02\综合案例\images\man.jpg" />
     <Content Include="Stage01\Day02\综合案例\images\women.jpg" />
+    <Content Include="Stage01\Day02\综合案例\login.html" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
