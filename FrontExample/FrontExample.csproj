@@ -57,9 +57,10 @@
     <Content Include="Stage01\Day01\test.html" />
     <Content Include="Stage01\Day01\timg.gif" />
     <Content Include="Stage01\Day01\timg.jpg" />
+    <Content Include="Stage01\Day02\02 小说排行榜\demo.html" />
+    <Content Include="Stage01\Day02\02 小说排行榜\images\down.jpg" />
+    <Content Include="Stage01\Day02\02 小说排行榜\images\up.jpg" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Stage01\Day02\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
