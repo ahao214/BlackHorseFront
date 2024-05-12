@@ -61,6 +61,13 @@
     <Content Include="Stage01\Day02\02 小说排行榜\images\down.jpg" />
     <Content Include="Stage01\Day02\02 小说排行榜\images\up.jpg" />
     <Content Include="Stage01\Day02\css\style.css" />
+    <Content Include="Stage01\Day02\综合案例\images\btn.png" />
+    <Content Include="Stage01\Day02\综合案例\images\ico1.png" />
+    <Content Include="Stage01\Day02\综合案例\images\ico2.png" />
+    <Content Include="Stage01\Day02\综合案例\images\ico3.png" />
+    <Content Include="Stage01\Day02\综合案例\images\login.png" />
+    <Content Include="Stage01\Day02\综合案例\images\man.jpg" />
+    <Content Include="Stage01\Day02\综合案例\images\women.jpg" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
