@@ -65,6 +65,7 @@
     <Content Include="Stage01\Day02\04 input控件.html" />
     <Content Include="Stage01\Day02\05 label标签.html" />
     <Content Include="Stage01\Day02\06 表单域.html" />
+    <Content Include="Stage01\Day02\07 html版的样式.html" />
     <Content Include="Stage01\Day02\btn.png" />
     <Content Include="Stage01\Day02\css\style.css" />
     <Content Include="Stage01\Day02\综合案例\images\btn.png" />
