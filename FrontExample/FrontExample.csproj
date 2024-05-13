@@ -97,6 +97,7 @@
     <Content Include="Stage01\Day03\15 测试题.html" />
     <Content Include="Stage01\Day03\17 元素的显示模式.html" />
     <Content Include="Stage01\Day03\18 显示模式转换.html" />
+    <Content Include="Stage01\Day03\19 课堂练习.html" />
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
     <Content Include="Stage01\Day03\02 id选择器.html" />
