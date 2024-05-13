@@ -101,6 +101,7 @@
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
     <Content Include="Stage01\Day03\02 id选择器.html" />
+    <Content Include="Stage01\Day03\21 交集选择器.html" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
