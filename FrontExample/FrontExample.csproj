@@ -92,6 +92,7 @@
     <Content Include="Stage01\Day03\10 后代子代选择器.html" />
     <Content Include="Stage01\Day03\11 交集选择器.html" />
     <Content Include="Stage01\Day03\12 并集选择器.html" />
+    <Content Include="Stage01\Day03\13 伪类链接.html" />
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
     <Content Include="Stage01\Day03\02 id选择器.html" />
