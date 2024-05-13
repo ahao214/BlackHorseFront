@@ -103,7 +103,16 @@
     <Content Include="Stage01\Day03\02 id选择器.html" />
     <Content Include="Stage01\Day03\20 导航栏\nav.html" />
     <Content Include="Stage01\Day03\21 交集选择器.html" />
+    <Content Include="Stage01\Day04\images\3.jpg" />
+    <Content Include="Stage01\Day04\images\h.png" />
+    <Content Include="Stage01\Day04\images\king.jpg" />
+    <Content Include="Stage01\Day04\images\l.jpg" />
+    <Content Include="Stage01\Day04\images\l.png" />
+    <Content Include="Stage01\Day04\images\ms.jpg" />
+    <Content Include="Stage01\Day04\images\sm.jpg" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Stage01\Day04\images\Thumbs.db" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
