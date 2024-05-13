@@ -88,6 +88,7 @@
     <Content Include="Stage01\Day03\06 文本修饰.html" />
     <Content Include="Stage01\Day03\07 开发者工具.html" />
     <Content Include="Stage01\Day03\08 后代选择器.html" />
+    <Content Include="Stage01\Day03\09 子代选择器.html" />
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
     <Content Include="Stage01\Day03\02 id选择器.html" />

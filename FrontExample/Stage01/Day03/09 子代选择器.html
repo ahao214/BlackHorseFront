@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>子代选择器</title>
+    <style>
+        ul li a {
+            color: red;
+        }
+
+        ul li > a {
+        }
+
+        ul a {
+            color: red;
+        }
+
+        ul > li > a {
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="#">一级菜单</a>
+            <div>
+                <a href="#">二级菜单</a>
+                <a href="#">二级菜单</a>
+                <a href="#">二级菜单</a>
+            </div>
+        </li>
+
+    </ul>
+</body>
+</html>
