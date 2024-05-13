@@ -81,6 +81,7 @@
     <Content Include="Stage01\Day02\综合案例\images\man.jpg" />
     <Content Include="Stage01\Day02\综合案例\images\women.jpg" />
     <Content Include="Stage01\Day02\综合案例\login.html" />
+    <Content Include="Stage01\Day03\01 多类名选择器.html" />
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
   </ItemGroup>
