@@ -83,6 +83,7 @@
     <Content Include="Stage01\Day02\综合案例\login.html" />
     <Content Include="Stage01\Day03\01 多类名选择器.html" />
     <Content Include="Stage01\Day03\03 通配符选择器.html" />
+    <Content Include="Stage01\Day03\04 综合案例.html" />
     <Content Include="Stage01\Day03\20 导航栏\images\bg.png" />
     <Content Include="Stage01\Day03\20 导航栏\images\bgc.png" />
     <Content Include="Stage01\Day03\02 id选择器.html" />
