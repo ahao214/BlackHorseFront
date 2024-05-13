@@ -123,5 +123,8 @@
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Stage01\Day04\css 权重精华6题\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
