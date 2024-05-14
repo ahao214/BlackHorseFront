@@ -124,6 +124,7 @@
     <Content Include="Stage01\Day04\12 背景半透明.html" />
     <Content Include="Stage01\Day04\13 盒子模型之边框.html" />
     <Content Include="Stage01\Day04\14 表单边框.html" />
+    <Content Include="Stage01\Day04\15 表格细线边框.html" />
     <Content Include="Stage01\Day04\images\3.jpg" />
     <Content Include="Stage01\Day04\images\h.png" />
     <Content Include="Stage01\Day04\images\king.jpg" />
@@ -135,8 +136,6 @@
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Stage01\Day04\css 权重精华6题\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
