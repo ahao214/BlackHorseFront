@@ -144,6 +144,7 @@
     <Content Include="Stage01\Day05\14 云道页面\images\banner.jpg" />
     <Content Include="Stage01\Day05\14 云道页面\images\logo.png" />
     <Content Include="Stage01\Day05\14 云道页面\images\ser.png" />
+    <Content Include="Stage01\Day05\14 云道页面\index.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
