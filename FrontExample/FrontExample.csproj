@@ -152,6 +152,7 @@
     <Content Include="Stage01\Day05\10 浮动特性-对齐.html" />
     <Content Include="Stage01\Day05\11 浮动有隐藏模式转换.html" />
     <Content Include="Stage01\Day05\12 一列固定宽度且居中.html" />
+    <Content Include="Stage01\Day05\13 左右型结构.html" />
     <Content Include="Stage01\Day05\13 通栏结构.html" />
     <Content Include="Stage01\Day05\14 云道页面\css\index.css" />
     <Content Include="Stage01\Day05\14 云道页面\images\banner.jpg" />
