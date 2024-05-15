@@ -146,6 +146,7 @@
     <Content Include="Stage01\Day05\04 盒子默认宽度.html" />
     <Content Include="Stage01\Day05\05 圆角边框.html" />
     <Content Include="Stage01\Day05\06 圆角案例.html" />
+    <Content Include="Stage01\Day05\07 盒子阴影.html" />
     <Content Include="Stage01\Day05\14 云道页面\css\index.css" />
     <Content Include="Stage01\Day05\14 云道页面\images\banner.jpg" />
     <Content Include="Stage01\Day05\14 云道页面\images\logo.png" />
