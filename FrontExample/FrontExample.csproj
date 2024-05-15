@@ -159,9 +159,29 @@
     <Content Include="Stage01\Day05\14 云道页面\images\logo.png" />
     <Content Include="Stage01\Day05\14 云道页面\images\ser.png" />
     <Content Include="Stage01\Day05\14 云道页面\index.html" />
+    <Content Include="Stage01\Day06\images\01.jpg" />
+    <Content Include="Stage01\Day06\images\02.jpg" />
+    <Content Include="Stage01\Day06\images\ad-l.png" />
+    <Content Include="Stage01\Day06\images\ad-r.png" />
+    <Content Include="Stage01\Day06\images\adv.jpg" />
+    <Content Include="Stage01\Day06\images\bl.gif" />
+    <Content Include="Stage01\Day06\images\box.png" />
+    <Content Include="Stage01\Day06\images\br.gif" />
+    <Content Include="Stage01\Day06\images\erweima.png" />
+    <Content Include="Stage01\Day06\images\icon1.png" />
+    <Content Include="Stage01\Day06\images\left.png" />
+    <Content Include="Stage01\Day06\images\right.png" />
+    <Content Include="Stage01\Day06\images\sf.png" />
+    <Content Include="Stage01\Day06\images\sun.jpg" />
+    <Content Include="Stage01\Day06\images\taobao.jpg" />
+    <Content Include="Stage01\Day06\images\tb.jpg" />
+    <Content Include="Stage01\Day06\images\top.png" />
+    <Content Include="Stage01\Day06\images\top_tu.gif" />
+    <Content Include="Stage01\Day06\images\yifan.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
+    <None Include="Stage01\Day06\images\Thumbs.db" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
