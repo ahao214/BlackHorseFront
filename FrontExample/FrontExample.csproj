@@ -142,6 +142,7 @@
     <Content Include="Stage01\Day04\images\sm.jpg" />
     <Content Include="Stage01\Day05\01 盒子水平居中.html" />
     <Content Include="Stage01\Day05\02 外边距合并.html" />
+    <Content Include="Stage01\Day05\03 外边距塌陷.html" />
     <Content Include="Stage01\Day05\14 云道页面\css\index.css" />
     <Content Include="Stage01\Day05\14 云道页面\images\banner.jpg" />
     <Content Include="Stage01\Day05\14 云道页面\images\logo.png" />
