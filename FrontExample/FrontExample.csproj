@@ -144,6 +144,7 @@
     <Content Include="Stage01\Day05\02 外边距合并.html" />
     <Content Include="Stage01\Day05\03 外边距塌陷.html" />
     <Content Include="Stage01\Day05\04 盒子默认宽度.html" />
+    <Content Include="Stage01\Day05\05 圆角边框.html" />
     <Content Include="Stage01\Day05\14 云道页面\css\index.css" />
     <Content Include="Stage01\Day05\14 云道页面\images\banner.jpg" />
     <Content Include="Stage01\Day05\14 云道页面\images\logo.png" />
