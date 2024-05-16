@@ -175,6 +175,7 @@
     <Content Include="Stage01\Day06\15 固定定位.html" />
     <Content Include="Stage01\Day06\16 固定广告案例.html" />
     <Content Include="Stage01\Day06\17 定位模式转换.html" />
+    <Content Include="Stage01\Day06\18 z-index叠放次序.html" />
     <Content Include="Stage01\Day06\images\01.jpg" />
     <Content Include="Stage01\Day06\images\02.jpg" />
     <Content Include="Stage01\Day06\images\ad-l.png" />
