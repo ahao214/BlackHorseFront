@@ -164,6 +164,7 @@
     <Content Include="Stage01\Day06\03 overflow 清除浮动.html" />
     <Content Include="Stage01\Day06\04 after伪元素清除浮动.html" />
     <Content Include="Stage01\Day06\05 双伪元素清除浮动.html" />
+    <Content Include="Stage01\Day06\06 相对定位.html" />
     <Content Include="Stage01\Day06\images\01.jpg" />
     <Content Include="Stage01\Day06\images\02.jpg" />
     <Content Include="Stage01\Day06\images\ad-l.png" />
