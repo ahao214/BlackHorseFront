@@ -169,6 +169,7 @@
     <Content Include="Stage01\Day06\08 父亲没定位.html" />
     <Content Include="Stage01\Day06\09 父亲有定位.html" />
     <Content Include="Stage01\Day06\10 哈根达斯.html" />
+    <Content Include="Stage01\Day06\12 定位的盒子居中对齐.html" />
     <Content Include="Stage01\Day06\images\01.jpg" />
     <Content Include="Stage01\Day06\images\02.jpg" />
     <Content Include="Stage01\Day06\images\ad-l.png" />
