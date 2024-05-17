@@ -254,6 +254,7 @@
     <Content Include="Stage01\Day08\jd\css\base.css" />
     <Content Include="Stage01\Day08\jd\css\index.css" />
     <Content Include="Stage01\Day08\jd\css\normalize.css" />
+    <Content Include="Stage01\Day08\jd\fonts\icomoon.svg" />
     <Content Include="Stage01\Day08\jd\images\computer.jpg" />
     <Content Include="Stage01\Day08\jd\images\erweima.png" />
     <Content Include="Stage01\Day08\jd\images\logo.jpg" />
@@ -270,10 +271,12 @@
     <None Include="Stage01\Day08\fonts\icomoon.eot" />
     <None Include="Stage01\Day08\fonts\icomoon.ttf" />
     <None Include="Stage01\Day08\fonts\icomoon.woff" />
+    <None Include="Stage01\Day08\jd\fonts\icomoon.eot" />
+    <None Include="Stage01\Day08\jd\fonts\icomoon.ttf" />
+    <None Include="Stage01\Day08\jd\fonts\icomoon.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage01\Day08\jd\fonts\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
