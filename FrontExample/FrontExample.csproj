@@ -262,6 +262,9 @@
     <Content Include="Stage01\Day08\jd\images\sprite-search.png" />
     <Content Include="Stage01\Day08\jd\images\top.jpg" />
     <Content Include="Stage01\Day08\jd\index.html" />
+    <Content Include="Stage01\Day09\jd\css\base.css" />
+    <Content Include="Stage01\Day09\jd\css\index.css" />
+    <Content Include="Stage01\Day09\jd\css\normalize.css" />
     <Content Include="Stage01\Day09\jd\demo.html" />
     <Content Include="Stage01\Day09\jd\favicon.ico" />
     <Content Include="Stage01\Day09\jd\fonts\icomoon.svg" />
@@ -297,7 +300,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage01\Day09\jd\css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
