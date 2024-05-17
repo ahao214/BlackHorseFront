@@ -203,6 +203,7 @@
     <Content Include="Stage01\Day06\云道页面\images\ser.png" />
     <Content Include="Stage01\Day06\云道页面\index.html" />
     <Content Include="Stage01\Day07\01 显示与隐藏.html" />
+    <Content Include="Stage01\Day07\02 仿土豆显示透明盒子.html" />
     <Content Include="Stage01\Day07\images\2.jpg" />
     <Content Include="Stage01\Day07\images\3.jpg" />
     <Content Include="Stage01\Day07\images\abcd.jpg" />
