@@ -240,6 +240,8 @@
     <Content Include="Stage01\Day07\挑错题\images\img1.jpg" />
     <Content Include="Stage01\Day07\挑错题\images\img2.jpg" />
     <Content Include="Stage01\Day07\挑错题\images\logo.jpg" />
+    <Content Include="Stage01\Day07\挑错题\index.css" />
+    <Content Include="Stage01\Day07\挑错题\index.html" />
     <Content Include="Stage01\Day07\挑错题\完整效果.jpg" />
     <Content Include="Stage01\Day07\练习.html" />
   </ItemGroup>
