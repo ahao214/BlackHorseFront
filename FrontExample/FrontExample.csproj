@@ -236,6 +236,8 @@
     <Content Include="Stage01\Day07\云道首页\images\pro1.png" />
     <Content Include="Stage01\Day07\云道首页\images\ser.png" />
     <Content Include="Stage01\Day07\云道首页\images\tb.png" />
+    <Content Include="Stage01\Day07\云道首页\css\index.css" />
+    <Content Include="Stage01\Day07\云道首页\index.html" />
     <Content Include="Stage01\Day07\挑错题\images\header_r_bg.jpg" />
     <Content Include="Stage01\Day07\挑错题\images\img1.jpg" />
     <Content Include="Stage01\Day07\挑错题\images\img2.jpg" />
@@ -255,7 +257,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage01\Day07\云道首页\css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
