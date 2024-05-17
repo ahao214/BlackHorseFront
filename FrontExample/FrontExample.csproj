@@ -251,6 +251,9 @@
     <Content Include="Stage01\Day08\demo.html" />
     <Content Include="Stage01\Day08\fonts\icomoon.svg" />
     <Content Include="Stage01\Day08\jd.png" />
+    <Content Include="Stage01\Day08\jd\css\base.css" />
+    <Content Include="Stage01\Day08\jd\css\index.css" />
+    <Content Include="Stage01\Day08\jd\css\normalize.css" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -265,7 +268,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage01\Day08\jd\" />
+    <Folder Include="Stage01\Day08\jd\fonts\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
