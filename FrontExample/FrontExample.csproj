@@ -262,6 +262,21 @@
     <Content Include="Stage01\Day08\jd\images\sprite-search.png" />
     <Content Include="Stage01\Day08\jd\images\top.jpg" />
     <Content Include="Stage01\Day08\jd\index.html" />
+    <Content Include="Stage01\Day09\jd\demo.html" />
+    <Content Include="Stage01\Day09\jd\favicon.ico" />
+    <Content Include="Stage01\Day09\jd\fonts\icomoon.svg" />
+    <Content Include="Stage01\Day09\jd\images\banner.jpg" />
+    <Content Include="Stage01\Day09\jd\images\bg.png" />
+    <Content Include="Stage01\Day09\jd\images\computer.jpg" />
+    <Content Include="Stage01\Day09\jd\images\erweima.png" />
+    <Content Include="Stage01\Day09\jd\images\ico_footer.png" />
+    <Content Include="Stage01\Day09\jd\images\ico_service.png" />
+    <Content Include="Stage01\Day09\jd\images\logo.jpg" />
+    <Content Include="Stage01\Day09\jd\images\pic1.jpg" />
+    <Content Include="Stage01\Day09\jd\images\pic2.jpg" />
+    <Content Include="Stage01\Day09\jd\images\sprite-search.png" />
+    <Content Include="Stage01\Day09\jd\images\top.jpg" />
+    <Content Include="Stage01\Day09\jd\index.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -276,10 +291,13 @@
     <None Include="Stage01\Day08\jd\fonts\icomoon.eot" />
     <None Include="Stage01\Day08\jd\fonts\icomoon.ttf" />
     <None Include="Stage01\Day08\jd\fonts\icomoon.woff" />
+    <None Include="Stage01\Day09\jd\fonts\icomoon.eot" />
+    <None Include="Stage01\Day09\jd\fonts\icomoon.ttf" />
+    <None Include="Stage01\Day09\jd\fonts\icomoon.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage01\Day09\" />
+    <Folder Include="Stage01\Day09\jd\css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
