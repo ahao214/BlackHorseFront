@@ -241,6 +241,7 @@
     <Content Include="Stage01\Day07\挑错题\images\img2.jpg" />
     <Content Include="Stage01\Day07\挑错题\images\logo.jpg" />
     <Content Include="Stage01\Day07\挑错题\完整效果.jpg" />
+    <Content Include="Stage01\Day07\练习.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
