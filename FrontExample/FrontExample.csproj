@@ -202,6 +202,29 @@
     <Content Include="Stage01\Day06\云道页面\images\logo.png" />
     <Content Include="Stage01\Day06\云道页面\images\ser.png" />
     <Content Include="Stage01\Day06\云道页面\index.html" />
+    <Content Include="Stage01\Day07\images\2.jpg" />
+    <Content Include="Stage01\Day07\images\3.jpg" />
+    <Content Include="Stage01\Day07\images\abcd.jpg" />
+    <Content Include="Stage01\Day07\images\ao.png" />
+    <Content Include="Stage01\Day07\images\arr.png" />
+    <Content Include="Stage01\Day07\images\case.png" />
+    <Content Include="Stage01\Day07\images\index.png" />
+    <Content Include="Stage01\Day07\images\jd.png" />
+    <Content Include="Stage01\Day07\images\mi.jpg" />
+    <Content Include="Stage01\Day07\images\s.png" />
+    <Content Include="Stage01\Day07\images\sp.png" />
+    <Content Include="Stage01\Day07\images\to.png" />
+    <Content Include="Stage01\Day07\images\tudou.jpg" />
+    <Content Include="Stage01\Day07\images\wx.jpg" />
+    <Content Include="Stage01\Day07\云道首页\images\banner.jpg" />
+    <Content Include="Stage01\Day07\云道首页\images\case.png" />
+    <Content Include="Stage01\Day07\云道首页\images\fdj.png" />
+    <Content Include="Stage01\Day07\云道首页\images\icon1.png" />
+    <Content Include="Stage01\Day07\云道首页\images\logo.png" />
+    <Content Include="Stage01\Day07\云道首页\images\pro.png" />
+    <Content Include="Stage01\Day07\云道首页\images\pro1.png" />
+    <Content Include="Stage01\Day07\云道首页\images\ser.png" />
+    <Content Include="Stage01\Day07\云道首页\images\tb.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -209,6 +232,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
+    <Folder Include="Stage01\Day07\挑错题\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
