@@ -254,6 +254,11 @@
     <Content Include="Stage01\Day08\jd\css\base.css" />
     <Content Include="Stage01\Day08\jd\css\index.css" />
     <Content Include="Stage01\Day08\jd\css\normalize.css" />
+    <Content Include="Stage01\Day08\jd\images\computer.jpg" />
+    <Content Include="Stage01\Day08\jd\images\erweima.png" />
+    <Content Include="Stage01\Day08\jd\images\logo.jpg" />
+    <Content Include="Stage01\Day08\jd\images\sprite-search.png" />
+    <Content Include="Stage01\Day08\jd\images\top.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
