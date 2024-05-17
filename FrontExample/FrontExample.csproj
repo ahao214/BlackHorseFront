@@ -248,6 +248,7 @@
     <Content Include="Stage01\Day07\练习.html" />
     <Content Include="Stage01\Day08\02 字体图标引用.html" />
     <Content Include="Stage01\Day08\03 行高不带单位.html" />
+    <Content Include="Stage01\Day08\demo.html" />
     <Content Include="Stage01\Day08\fonts\icomoon.svg" />
     <Content Include="Stage01\Day08\jd.png" />
   </ItemGroup>
