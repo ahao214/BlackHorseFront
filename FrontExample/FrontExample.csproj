@@ -254,6 +254,7 @@
     <Content Include="Stage01\Day08\jd\css\base.css" />
     <Content Include="Stage01\Day08\jd\css\index.css" />
     <Content Include="Stage01\Day08\jd\css\normalize.css" />
+    <Content Include="Stage01\Day08\jd\favicon.ico" />
     <Content Include="Stage01\Day08\jd\fonts\icomoon.svg" />
     <Content Include="Stage01\Day08\jd\images\computer.jpg" />
     <Content Include="Stage01\Day08\jd\images\erweima.png" />
