@@ -206,6 +206,7 @@
     <Content Include="Stage01\Day07\02 仿土豆显示透明盒子.html" />
     <Content Include="Stage01\Day07\03 溢出隐藏.html" />
     <Content Include="Stage01\Day07\04 鼠标样式.html" />
+    <Content Include="Stage01\Day07\05 轮廓线.html" />
     <Content Include="Stage01\Day07\images\2.jpg" />
     <Content Include="Stage01\Day07\images\3.jpg" />
     <Content Include="Stage01\Day07\images\abcd.jpg" />
