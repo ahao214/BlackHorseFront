@@ -261,6 +261,7 @@
     <Content Include="Stage01\Day08\jd\images\logo.jpg" />
     <Content Include="Stage01\Day08\jd\images\sprite-search.png" />
     <Content Include="Stage01\Day08\jd\images\top.jpg" />
+    <Content Include="Stage01\Day08\jd\index.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
