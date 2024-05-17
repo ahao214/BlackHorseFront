@@ -247,6 +247,7 @@
     <Content Include="Stage01\Day07\挑错题\完整效果.jpg" />
     <Content Include="Stage01\Day07\练习.html" />
     <Content Include="Stage01\Day08\fonts\icomoon.svg" />
+    <Content Include="Stage01\Day08\jd.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
