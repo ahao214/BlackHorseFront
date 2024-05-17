@@ -246,6 +246,7 @@
     <Content Include="Stage01\Day07\挑错题\index.html" />
     <Content Include="Stage01\Day07\挑错题\完整效果.jpg" />
     <Content Include="Stage01\Day07\练习.html" />
+    <Content Include="Stage01\Day08\fonts\icomoon.svg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -254,9 +255,13 @@
     <None Include="Stage01\Day07\挑错题\images\_notes\img1.jpg.mno" />
     <None Include="Stage01\Day07\挑错题\images\_notes\img2.jpg.mno" />
     <None Include="Stage01\Day07\挑错题\images\_notes\logo.jpg.mno" />
+    <None Include="Stage01\Day08\fonts\icomoon.eot" />
+    <None Include="Stage01\Day08\fonts\icomoon.ttf" />
+    <None Include="Stage01\Day08\fonts\icomoon.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
+    <Folder Include="Stage01\Day08\jd\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
