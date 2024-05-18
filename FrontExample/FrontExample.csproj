@@ -280,6 +280,7 @@
     <Content Include="Stage01\Day09\jd\images\sprite-search.png" />
     <Content Include="Stage01\Day09\jd\images\top.jpg" />
     <Content Include="Stage01\Day09\jd\index.html" />
+    <Content Include="Stage01\Day10\fonts\icomoon.svg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -297,6 +298,9 @@
     <None Include="Stage01\Day09\jd\fonts\icomoon.eot" />
     <None Include="Stage01\Day09\jd\fonts\icomoon.ttf" />
     <None Include="Stage01\Day09\jd\fonts\icomoon.woff" />
+    <None Include="Stage01\Day10\fonts\icomoon.eot" />
+    <None Include="Stage01\Day10\fonts\icomoon.ttf" />
+    <None Include="Stage01\Day10\fonts\icomoon.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
