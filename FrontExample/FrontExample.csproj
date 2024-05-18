@@ -282,6 +282,26 @@
     <Content Include="Stage01\Day09\jd\index.html" />
     <Content Include="Stage01\Day10\bgsound.mp3" />
     <Content Include="Stage01\Day10\fonts\icomoon.svg" />
+    <Content Include="Stage01\Day10\jd\css\base.css" />
+    <Content Include="Stage01\Day10\jd\css\index.css" />
+    <Content Include="Stage01\Day10\jd\css\normalize.css" />
+    <Content Include="Stage01\Day10\jd\favicon.ico" />
+    <Content Include="Stage01\Day10\jd\fonts\icomoon.svg" />
+    <Content Include="Stage01\Day10\jd\images\banner.jpg" />
+    <Content Include="Stage01\Day10\jd\images\bg.png" />
+    <Content Include="Stage01\Day10\jd\images\computer.jpg" />
+    <Content Include="Stage01\Day10\jd\images\erweima.png" />
+    <Content Include="Stage01\Day10\jd\images\ico_footer.png" />
+    <Content Include="Stage01\Day10\jd\images\ico_service.png" />
+    <Content Include="Stage01\Day10\jd\images\logo.jpg" />
+    <Content Include="Stage01\Day10\jd\images\mi.jpg" />
+    <Content Include="Stage01\Day10\jd\images\no_login.jpg" />
+    <Content Include="Stage01\Day10\jd\images\pic1.jpg" />
+    <Content Include="Stage01\Day10\jd\images\pic2.jpg" />
+    <Content Include="Stage01\Day10\jd\images\sprite-search.png" />
+    <Content Include="Stage01\Day10\jd\images\sprite_fs%401x.png" />
+    <Content Include="Stage01\Day10\jd\images\top.jpg" />
+    <Content Include="Stage01\Day10\jd\index.html" />
     <Content Include="Stage01\Day10\mi.jpg" />
     <Content Include="Stage01\Day10\movie04.ogg" />
     <Content Include="Stage01\Day10\mp4.mp4" />
@@ -306,6 +326,9 @@
     <None Include="Stage01\Day10\fonts\icomoon.eot" />
     <None Include="Stage01\Day10\fonts\icomoon.ttf" />
     <None Include="Stage01\Day10\fonts\icomoon.woff" />
+    <None Include="Stage01\Day10\jd\fonts\icomoon.eot" />
+    <None Include="Stage01\Day10\jd\fonts\icomoon.ttf" />
+    <None Include="Stage01\Day10\jd\fonts\icomoon.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
