@@ -280,7 +280,12 @@
     <Content Include="Stage01\Day09\jd\images\sprite-search.png" />
     <Content Include="Stage01\Day09\jd\images\top.jpg" />
     <Content Include="Stage01\Day09\jd\index.html" />
+    <Content Include="Stage01\Day10\bgsound.mp3" />
     <Content Include="Stage01\Day10\fonts\icomoon.svg" />
+    <Content Include="Stage01\Day10\mi.jpg" />
+    <Content Include="Stage01\Day10\movie04.ogg" />
+    <Content Include="Stage01\Day10\mp4.mp4" />
+    <Content Include="Stage01\Day10\music.ogg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
