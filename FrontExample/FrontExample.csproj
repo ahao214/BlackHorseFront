@@ -283,6 +283,7 @@
     <Content Include="Stage01\Day10\01 html5新标签.html" />
     <Content Include="Stage01\Day10\02 datalist.html" />
     <Content Include="Stage01\Day10\03 新增表单.html" />
+    <Content Include="Stage01\Day10\04 新增表单属性.html" />
     <Content Include="Stage01\Day10\bgsound.mp3" />
     <Content Include="Stage01\Day10\fonts\icomoon.svg" />
     <Content Include="Stage01\Day10\jd\css\base.css" />
