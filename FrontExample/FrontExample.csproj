@@ -287,6 +287,7 @@
     <Content Include="Stage01\Day10\05 插入视频.html" />
     <Content Include="Stage01\Day10\06 html5里面的视频.html" />
     <Content Include="Stage01\Day10\07  结构伪类选择器.html" />
+    <Content Include="Stage01\Day10\08 属性选择器.html" />
     <Content Include="Stage01\Day10\bgsound.mp3" />
     <Content Include="Stage01\Day10\fonts\icomoon.svg" />
     <Content Include="Stage01\Day10\jd\css\base.css" />
