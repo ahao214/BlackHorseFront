@@ -321,6 +321,13 @@
     <Content Include="Stage01\Day10\mp4.mp4" />
     <Content Include="Stage01\Day10\music.ogg" />
     <Content Include="Stage02\Day11\01 伪元素选择器.html" />
+    <Content Include="Stage02\Day11\images\1.jpg" />
+    <Content Include="Stage02\Day11\images\2.jpg" />
+    <Content Include="Stage02\Day11\images\3.jpg" />
+    <Content Include="Stage02\Day11\images\4.jpg" />
+    <Content Include="Stage02\Day11\images\5.jpg" />
+    <Content Include="Stage02\Day11\images\6.jpg" />
+    <Content Include="Stage02\Day11\images\fengche.png" />
     <Content Include="Stage02\Day11\学成在线\favicon.ico" />
     <Content Include="Stage02\Day11\学成在线\images\banner.jpg" />
     <Content Include="Stage02\Day11\学成在线\images\fa-search.png" />
@@ -357,7 +364,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage02\Day11\images\" />
+    <Folder Include="Stage02\Day11\学成在线\css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
