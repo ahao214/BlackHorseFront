@@ -335,6 +335,7 @@
     <Content Include="Stage02\Day11\12 旋转的楚乔.html" />
     <Content Include="Stage02\Day11\13 过渡给颜色.html" />
     <Content Include="Stage02\Day11\14 变形-倾斜.html" />
+    <Content Include="Stage02\Day11\15 鼠标经过显示阴影.html" />
     <Content Include="Stage02\Day11\images\1.jpg" />
     <Content Include="Stage02\Day11\images\2.jpg" />
     <Content Include="Stage02\Day11\images\3.jpg" />
