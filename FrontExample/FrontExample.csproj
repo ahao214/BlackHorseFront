@@ -322,6 +322,7 @@
     <Content Include="Stage01\Day10\music.ogg" />
     <Content Include="Stage02\Day11\01 伪元素选择器.html" />
     <Content Include="Stage02\Day11\02 文字对齐.html" />
+    <Content Include="Stage02\Day11\03 体会过渡.html" />
     <Content Include="Stage02\Day11\1.jpg" />
     <Content Include="Stage02\Day11\images\1.jpg" />
     <Content Include="Stage02\Day11\images\2.jpg" />
