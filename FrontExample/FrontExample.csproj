@@ -343,6 +343,8 @@
     <Content Include="Stage02\Day11\images\5.jpg" />
     <Content Include="Stage02\Day11\images\6.jpg" />
     <Content Include="Stage02\Day11\images\fengche.png" />
+    <Content Include="Stage02\Day11\学成在线\css\base.css" />
+    <Content Include="Stage02\Day11\学成在线\css\index.css" />
     <Content Include="Stage02\Day11\学成在线\favicon.ico" />
     <Content Include="Stage02\Day11\学成在线\images\banner.jpg" />
     <Content Include="Stage02\Day11\学成在线\images\fa-search.png" />
@@ -353,6 +355,7 @@
     <Content Include="Stage02\Day11\学成在线\images\图层-133.png" />
     <Content Include="Stage02\Day11\学成在线\images\图层-137.png" />
     <Content Include="Stage02\Day11\学成在线\images\矩形-9.png" />
+    <Content Include="Stage02\Day11\学成在线\index.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -379,7 +382,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage02\Day11\学成在线\css\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
