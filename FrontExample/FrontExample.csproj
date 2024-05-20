@@ -356,6 +356,21 @@
     <Content Include="Stage02\Day11\学成在线\images\图层-137.png" />
     <Content Include="Stage02\Day11\学成在线\images\矩形-9.png" />
     <Content Include="Stage02\Day11\学成在线\index.html" />
+    <Content Include="Stage02\Day12\images\1.jpg" />
+    <Content Include="Stage02\Day12\images\1.png" />
+    <Content Include="Stage02\Day12\images\1498446043198.png" />
+    <Content Include="Stage02\Day12\images\2.jpg" />
+    <Content Include="Stage02\Day12\images\2.png" />
+    <Content Include="Stage02\Day12\images\3.jpg" />
+    <Content Include="Stage02\Day12\images\banner.jpg" />
+    <Content Include="Stage02\Day12\images\ctrip.png" />
+    <Content Include="Stage02\Day12\images\hou.svg" />
+    <Content Include="Stage02\Day12\images\img.jpg" />
+    <Content Include="Stage02\Day12\images\paopao.png" />
+    <Content Include="Stage02\Day12\images\qian.svg" />
+    <Content Include="Stage02\Day12\images\shui.jpg" />
+    <Content Include="Stage02\Day12\images\web.png" />
+    <Content Include="Stage02\Day12\images\x.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -382,6 +397,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
+    <Folder Include="Stage02\Day12\学成在线\css\" />
+    <Folder Include="Stage02\Day12\学成在线\images\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
