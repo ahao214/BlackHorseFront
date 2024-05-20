@@ -404,6 +404,7 @@
     <Content Include="Stage02\Day12\学成在线\index.html" />
     <Content Include="Stage03\Day01\03初次体验js代码.html" />
     <Content Include="Stage03\Day01\04写js代码的注意问题.html" />
+    <Content Include="Stage03\Day01\05变量.html" />
     <Content Include="Stage03\Day01\test.js" />
   </ItemGroup>
   <ItemGroup>
