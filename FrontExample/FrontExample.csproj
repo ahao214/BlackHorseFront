@@ -402,6 +402,8 @@
     <Content Include="Stage02\Day12\学成在线\images\图层-137.png" />
     <Content Include="Stage02\Day12\学成在线\images\矩形-9.png" />
     <Content Include="Stage02\Day12\学成在线\index.html" />
+    <Content Include="Stage03\Day01\03初次体验js代码.html" />
+    <Content Include="Stage03\Day01\test.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
