@@ -410,6 +410,7 @@
     <Content Include="Stage03\Day01\09数据类型.html" />
     <Content Include="Stage03\Day01\10数字类型.html" />
     <Content Include="Stage03\Day01\11字符串类型.html" />
+    <Content Include="Stage03\Day01\13类型转换.html" />
     <Content Include="Stage03\Day01\test.js" />
   </ItemGroup>
   <ItemGroup>
