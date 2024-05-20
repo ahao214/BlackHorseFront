@@ -413,6 +413,7 @@
     <Content Include="Stage03\Day01\13类型转换.html" />
     <Content Include="Stage03\Day01\14操作符.html" />
     <Content Include="Stage03\Day01\test.js" />
+    <Content Include="Stage03\Day02\03一元运算符.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
