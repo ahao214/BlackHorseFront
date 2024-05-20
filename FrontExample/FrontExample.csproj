@@ -406,6 +406,7 @@
     <Content Include="Stage03\Day01\04写js代码的注意问题.html" />
     <Content Include="Stage03\Day01\05变量.html" />
     <Content Include="Stage03\Day01\06总结变量.html" />
+    <Content Include="Stage03\Day01\07案例变量的交换.html" />
     <Content Include="Stage03\Day01\test.js" />
   </ItemGroup>
   <ItemGroup>
