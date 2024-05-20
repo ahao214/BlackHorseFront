@@ -407,6 +407,7 @@
     <Content Include="Stage03\Day01\05变量.html" />
     <Content Include="Stage03\Day01\06总结变量.html" />
     <Content Include="Stage03\Day01\07案例变量的交换.html" />
+    <Content Include="Stage03\Day01\09数据类型.html" />
     <Content Include="Stage03\Day01\test.js" />
   </ItemGroup>
   <ItemGroup>
