@@ -432,6 +432,7 @@
     <Content Include="Stage03\Day03\03break关键字使用.html" />
     <Content Include="Stage03\Day03\04continue关键字使用.html" />
     <Content Include="Stage03\Day03\05数组.html" />
+    <Content Include="Stage03\Day03\06数组的注意问题.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
