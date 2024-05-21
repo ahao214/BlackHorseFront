@@ -427,6 +427,7 @@
     <Content Include="Stage03\Day02\14总结while循环和do-while循环.html" />
     <Content Include="Stage03\Day02\15循环语句之for循环.html" />
     <Content Include="Stage03\Day02\16for循环的练习.html" />
+    <Content Include="Stage03\Day02\17for循环案例.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
