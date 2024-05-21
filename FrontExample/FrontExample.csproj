@@ -422,6 +422,7 @@
     <Content Include="Stage03\Day02\09分支语句之switch-case语句.html" />
     <Content Include="Stage03\Day02\10总结分支语句.html" />
     <Content Include="Stage03\Day02\11循环语句之while循环.html" />
+    <Content Include="Stage03\Day02\12while循环的练习.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
