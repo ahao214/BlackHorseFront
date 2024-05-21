@@ -434,6 +434,7 @@
     <Content Include="Stage03\Day03\05数组.html" />
     <Content Include="Stage03\Day03\06数组的注意问题.html" />
     <Content Include="Stage03\Day03\07总结数组基础知识.html" />
+    <Content Include="Stage03\Day03\08for循环遍历数组.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
