@@ -417,6 +417,7 @@
     <Content Include="Stage03\Day02\04流程控制.html" />
     <Content Include="Stage03\Day02\05分支语句之if语句.html" />
     <Content Include="Stage03\Day02\06分支语句之if-else语句.html" />
+    <Content Include="Stage03\Day02\07分支语句之三元表达式.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
