@@ -419,6 +419,7 @@
     <Content Include="Stage03\Day02\06分支语句之if-else语句.html" />
     <Content Include="Stage03\Day02\07分支语句之三元表达式.html" />
     <Content Include="Stage03\Day02\08分支语句之if-else if语句.html" />
+    <Content Include="Stage03\Day02\09分支语句之switch-case语句.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
