@@ -415,6 +415,7 @@
     <Content Include="Stage03\Day01\test.js" />
     <Content Include="Stage03\Day02\03一元运算符.html" />
     <Content Include="Stage03\Day02\04流程控制.html" />
+    <Content Include="Stage03\Day02\05分支语句之if语句.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
