@@ -429,6 +429,7 @@
     <Content Include="Stage03\Day02\16for循环的练习.html" />
     <Content Include="Stage03\Day02\17for循环案例.html" />
     <Content Include="Stage03\Day02\18乘法口诀表.html" />
+    <Content Include="Stage03\Day03\03break关键字使用.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
