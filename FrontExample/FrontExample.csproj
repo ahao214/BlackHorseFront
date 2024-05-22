@@ -438,6 +438,7 @@
     <Content Include="Stage03\Day03\09数组案例.html" />
     <Content Include="Stage03\Day03\10数组案例.html" />
     <Content Include="Stage03\Day03\11冒泡排序.html" />
+    <Content Include="Stage03\Day03\12函数介绍及定义.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
