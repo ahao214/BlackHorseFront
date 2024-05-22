@@ -35,6 +35,18 @@
         //把新数组的长度作为下标使用,数组的长度是可以改变的
         console.log(newArr);
 
+
+        //案例8:反转数组---把数组中的数据的位置调换
+        var array = [10, 20, 30, 40, 50];
+        //循环的目的是控制交换的次数
+        for (var i = 0; i < array.length / 2; i++) {
+            //先把第一个元素的值放在第三方变量中
+            var temp = array[i];
+            array[i] = array[array.length - 1 - i];
+            array[array.length - 1 - i] = temp;
+        }
+        console.log(array);
+
     </script>
 </head>
 <body>
