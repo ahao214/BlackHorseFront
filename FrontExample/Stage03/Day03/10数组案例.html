@@ -47,6 +47,46 @@
         }
         console.log(array);
 
+        for (var i = array.length - 1; i >= 0; i--) {
+            console.log(array[i]);
+        }
+        console.log(array);//50 40 30 20 10
+
+        //案例9:提示用户输入班级人数,求总成绩,平均值,最高分,最低分---扩展
+
+        //提示用户输入人数,并转成数字类型
+        var preCount = parseInt(prompt("请输入班级人数"));
+        // 定义数组存储班级的每个人的成绩
+        var perScores = [];
+        //循环的方式录入每个人的成绩
+        for (var i = 0; i < preCount; i++) {
+            //把每个人的成绩存储到数组中
+            perScores[perScores.length] = parseInt(prompt("请输入第" + (i + 1) + "个人的成绩"));
+        }
+        console.log(perScores);
+        //求总成绩
+        var sum = 0;
+        var avg = 0;
+        var max = perScores[0];
+        var min = perScores[0];
+        for (var i = 0; i < perScores.length; i++) {
+            sum += perScores[i];
+            //求最大值
+            if (max < perScores[i]) {
+                max = perScores[i];
+            }
+            //求最小值
+            if (min > perScores[i]) {
+                min = perScores[i];
+            }
+        }
+
+        avg = sum / perScores.length;
+        console.log("和为:" + sum);
+        console.log("平均值:" + avg);
+        console.log("最大值:" + max);
+        console.log("最小值:" + min);
+
     </script>
 </head>
 <body>
