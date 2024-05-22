@@ -442,6 +442,7 @@
     <Content Include="Stage03\Day03\13函数的小练习.html" />
     <Content Include="Stage03\Day03\14函数的参数.html" />
     <Content Include="Stage03\Day03\15函数的返回值.html" />
+    <Content Include="Stage03\Day03\16函数案例.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
