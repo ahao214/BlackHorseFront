@@ -459,6 +459,8 @@
     <Content Include="Stage03\Day04\16快速识别预解析的结果.html" />
     <Content Include="Stage03\Day05\04创建对象.html" />
     <Content Include="Stage03\Day05\05创建对象练习.html" />
+    <Content Include="Stage03\Day05\06工厂模式常见对象.html" />
+    <Content Include="Stage03\Day05\07自定义构造函数创建对象.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
