@@ -470,6 +470,7 @@
     <Content Include="Stage03\Day05\15识别传递的是啥.html" />
     <Content Include="Stage03\Day05\16内置对象.html" />
     <Content Include="Stage03\Day05\17Math对象.html" />
+    <Content Include="Stage03\Day06\common.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
@@ -496,7 +497,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
-    <Folder Include="Stage03\Day06\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
