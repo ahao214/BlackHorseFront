@@ -4,7 +4,22 @@
 <head>
     <meta charset="utf-8" />
     <title>函数练习</title>
-
+    <script>
+        //求斐波那契数列,12---144
+        //1 1 2 3 5 8 13 21 34 55 89 144
+        function getFib(num) {
+            var n1 = 1;
+            var n2 = 1;
+            var sum = 0;
+            for (var i = 3; i <= num; i++) {
+                sum = n1 + n2;
+                n1 = n2;
+                n2 = sum;
+            }
+            return sum;
+        }
+        console.log(getFib(10));
+    </script>
 
 </head>
 <body>
