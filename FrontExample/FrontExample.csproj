@@ -454,6 +454,7 @@
     <Content Include="Stage03\Day04\11函数作为返回值使用.html" />
     <Content Include="Stage03\Day04\12作用域.html" />
     <Content Include="Stage03\Day04\13作用域链.html" />
+    <Content Include="Stage03\Day04\14预解析.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
