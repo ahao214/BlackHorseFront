@@ -462,6 +462,8 @@
     <Content Include="Stage03\Day05\06工厂模式常见对象.html" />
     <Content Include="Stage03\Day05\07自定义构造函数创建对象.html" />
     <Content Include="Stage03\Day05\08自定义构造函数创建对象做了几件事.html" />
+    <Content Include="Stage03\Day05\09创建对象的图解.html" />
+    <Content Include="Stage03\Day05\10字面量的方式创建对象.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
