@@ -465,6 +465,7 @@
     <Content Include="Stage03\Day05\09创建对象的图解.html" />
     <Content Include="Stage03\Day05\10字面量的方式创建对象.html" />
     <Content Include="Stage03\Day05\12设置和获取属性的另一种写法.html" />
+    <Content Include="Stage03\Day05\13JSON格式的数据.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
