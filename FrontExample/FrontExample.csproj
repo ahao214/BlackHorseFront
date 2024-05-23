@@ -455,6 +455,7 @@
     <Content Include="Stage03\Day04\12作用域.html" />
     <Content Include="Stage03\Day04\13作用域链.html" />
     <Content Include="Stage03\Day04\14预解析.html" />
+    <Content Include="Stage03\Day04\15预解析分段的问题的局部作用域的问题.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
