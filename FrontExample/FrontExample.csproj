@@ -448,6 +448,8 @@
     <Content Include="Stage03\Day04\05函数练习.html" />
     <Content Include="Stage03\Day04\06函数案例.html" />
     <Content Include="Stage03\Day04\07arguments对象.html" />
+    <Content Include="Stage03\Day04\08函数的其他的定义方式.html" />
+    <Content Include="Stage03\Day04\09函数也是一种数据类型.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
