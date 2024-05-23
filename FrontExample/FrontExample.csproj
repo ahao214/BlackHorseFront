@@ -468,6 +468,7 @@
     <Content Include="Stage03\Day05\13JSON格式的数据.html" />
     <Content Include="Stage03\Day05\14简单类型和复杂类型.html" />
     <Content Include="Stage03\Day05\15识别传递的是啥.html" />
+    <Content Include="Stage03\Day05\16内置对象.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
