@@ -446,6 +446,7 @@
     <Content Include="Stage03\Day04\03函数练习.html" />
     <Content Include="Stage03\Day04\04函数练习.html" />
     <Content Include="Stage03\Day04\05函数练习.html" />
+    <Content Include="Stage03\Day04\06函数案例.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
