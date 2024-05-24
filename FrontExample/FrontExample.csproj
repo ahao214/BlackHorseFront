@@ -470,6 +470,16 @@
     <Content Include="Stage03\Day05\15识别传递的是啥.html" />
     <Content Include="Stage03\Day05\16内置对象.html" />
     <Content Include="Stage03\Day05\17Math对象.html" />
+    <Content Include="Stage03\Day06\03Math对象的案例.html" />
+    <Content Include="Stage03\Day06\04Math对象的案例.html" />
+    <Content Include="Stage03\Day06\05Date对象.html" />
+    <Content Include="Stage03\Day06\10字符串案例.html" />
+    <Content Include="Stage03\Day06\09String对象的下的方法.html" />
+    <Content Include="Stage03\Day06\08String对象.html" />
+    <Content Include="Stage03\Day06\07格式化日期和时间.html" />
+    <Content Include="Stage03\Day06\06总结Date对象的方法.html" />
+    <Content Include="Stage03\Day06\11Array对象.html" />
+    <Content Include="Stage03\Day06\12基本包装类型.html" />
     <Content Include="Stage03\Day06\common.js" />
   </ItemGroup>
   <ItemGroup>
