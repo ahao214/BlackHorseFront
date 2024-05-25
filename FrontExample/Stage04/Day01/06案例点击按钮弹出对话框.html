@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击按钮弹出对话框</title>
+</head>
+<body>
+
+    <script>
+        function f1() {
+            alert("这是一个对话框");
+        }
+    </script>
+    <input type="button" value="显示效果" onclick="f1()" />
+
+    <!--开始分离html和js-->
+    <input type="button" value="开始分离代码" id="btn" />
+    <script>
+        function f2() {
+            alert("开发分离html和js代码");
+        }
+        function f2() {
+            alert("哈哈");
+        };
+        //html标签中的id属性中存储的值是唯一的,
+        //id属性就像人的身份证号码一样,不能重复,页面中的唯一的标识
+        //从文档中找到id值为btn的这个标签(元素)
+        //document.getElementById("id属性的值");======>返回的是一个元素对象
+        //根据id获取这个标签(元素)
+        var btnObj = document.getElementById("btn");
+        //为按钮注册点击事件
+        btnObj.onclick = f2;//不加括号
+    </script>
+
+    <!--最终的版本代码:-->
+    <input type="button" value="最终版" id="btn1" />
+    <script>
+        //根据id属性的值从整个文档中获取这个元素(标签)
+        var btnObj1 = document.getElementById("btn1");
+        //为该元素注册点击事件
+        btnObj1.onclick = function () {
+            alert("太好了");
+        };
+
+        //根据id属性的值从整个文档中获取这个元素(标签)
+        //为该元素注册点击事件
+        document.getElementById("btn1").onclick = function () {
+            alert("哦,这真是太好了");
+        };
+    </script>
+
+</body>
+</html>

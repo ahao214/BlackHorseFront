@@ -483,6 +483,7 @@
     <Content Include="Stage03\Day06\common.js" />
     <Content Include="Stage04\Day01\04初次体验DOM.html" />
     <Content Include="Stage04\Day01\05真正的体验DOM操作.html" />
+    <Content Include="Stage04\Day01\06案例点击按钮弹出对话框.html" />
     <Content Include="Stage04\Day01\images\0f000PC3L7v5WMl_8bcCX6%281%29.jpg" />
     <Content Include="Stage04\Day01\images\1-small.jpg" />
     <Content Include="Stage04\Day01\images\1.gif" />
