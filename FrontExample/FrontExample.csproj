@@ -490,6 +490,7 @@
     <Content Include="Stage04\Day01\12案例点击按钮修改a标签的地址和热点文字.html" />
     <Content Include="Stage04\Day01\13案例点击按钮修改多个p标签的文字内容.html" />
     <Content Include="Stage04\Day01\14案例点击按钮修改图片的alt和title属性.html" />
+    <Content Include="Stage04\Day01\15案例点击按钮修改所有文本框的值.html" />
     <Content Include="Stage04\Day01\images\0f000PC3L7v5WMl_8bcCX6%281%29.jpg" />
     <Content Include="Stage04\Day01\images\1-small.jpg" />
     <Content Include="Stage04\Day01\images\1.gif" />

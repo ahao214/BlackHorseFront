@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击按钮修改所有文本框的值</title>
+</head>
+<body>
+    <input type="button" value="修改文本框的值" id="btn" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+    <input type="text" value="" /><br />
+
+    <script>
+        document.getElementById("btn").onclick = function () {
+            //获取所有的文本框
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                //判断这个元素是不是按钮
+                if (inputs[i].type != "button") {
+                    inputs[i].value = "显示";
+                }
+            }
+        };
+
+
+    </script>
+
+</body>
+</html>
