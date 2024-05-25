@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击按钮弹出对话框</title>
+</head>
+<body>
+    <input type="button" value="按钮" id="btn" />
+    <script>
+        //先有按钮,才能获取,获取之后才能注册事件
+
+
+        //根据id属性的值从文档中获取这个元素
+        var btnObj = document.getElementById("btn");
+        btnObj.onclick = function () {
+            alert("click me!");
+        };
+    </script>
+</body>
+</html>
