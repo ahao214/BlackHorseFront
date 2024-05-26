@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击图片修改自身的宽和高</title>
+</head>
+<body>
+    <img src="images/liuyan.jpg" alt="" id="im" />
+    <script>
+        //点击图片,修改自身的宽和高
+        var imgObj = document.getElementById("im");
+        imgObj.onclick = function () {
+            this.width = "200";
+            this.height = "200";
+        };
+
+
+    </script>
+
+
+</body>
+</html>
