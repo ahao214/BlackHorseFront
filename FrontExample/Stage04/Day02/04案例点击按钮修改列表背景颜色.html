@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击按钮修改列表背景颜色</title>
+</head>
+<body>
+    <input type="button" id="btn" value="变色" />
+    <ul id="uu">
+        <li>卡卡西</li>
+        <li>大蛇丸</li>
+        <li>我爱罗</li>
+        <li>鸣人</li>
+        <li>佐助</li>
+    </ul>
+
+    <script>
+        document.getElementById("btn").onclick = function () {
+            document.getElementById("uu").style.backgroundColor = "yellow";
+        }
+    </script>
+
+</body>
+</html>
