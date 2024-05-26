@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例点击按钮禁用文本框</title>
+</head>
+<body>
+    <input type="button" value="禁用文本框" id="btn" />
+    <input type="text" value="文本框" id="txt" />
+    <script>
+        document.getElementById("btn").onclick = function () {
+            document.getElementById("txt").disabled = true;
+        }
+    </script>
+
+</body>
+</html>
