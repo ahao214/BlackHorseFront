@@ -495,6 +495,7 @@
     <Content Include="Stage04\Day01\17案例点击按钮修改按钮的value属性.html" />
     <Content Include="Stage04\Day01\18案例点击图片修改自身的宽和高.html" />
     <Content Include="Stage04\Day01\19案例排他功能.html" />
+    <Content Include="Stage04\Day01\20案例点击超链接切换图片.html" />
     <Content Include="Stage04\Day01\common.js" />
     <Content Include="Stage04\Day01\images\0f000PC3L7v5WMl_8bcCX6%281%29.jpg" />
     <Content Include="Stage04\Day01\images\1-small.jpg" />
