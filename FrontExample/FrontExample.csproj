@@ -576,6 +576,7 @@
     <Content Include="Stage04\Day02\10案例显示和隐藏二维码.html" />
     <Content Include="Stage04\Day02\11根据name属性值获取元素.html" />
     <Content Include="Stage04\Day02\12根据类样式的名字来获取元素.html" />
+    <Content Include="Stage04\Day02\13获取元素的其他的方式.html" />
     <Content Include="Stage04\Day02\24tab切换案例实现.html" />
     <Content Include="Stage04\Day02\common.js" />
     <Content Include="Stage04\Day02\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
