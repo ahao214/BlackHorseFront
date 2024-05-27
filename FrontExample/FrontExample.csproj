@@ -569,6 +569,8 @@
     <Content Include="Stage04\Day02\03案例点击按钮禁用文本框.html" />
     <Content Include="Stage04\Day02\04案例点击按钮修改列表背景颜色.html" />
     <Content Include="Stage04\Day02\05案例阻止超链接跳转.html" />
+    <Content Include="Stage04\Day02\06案例点击小图切换大图.html" />
+    <Content Include="Stage04\Day02\24tab切换案例实现.html" />
     <Content Include="Stage04\Day02\common.js" />
     <Content Include="Stage04\Day02\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day02\images\1-small.jpg" />
