@@ -586,6 +586,7 @@
     <Content Include="Stage04\Day02\20innerText和innerHTML的区别.html" />
     <Content Include="Stage04\Day02\21自定义属性引入.html" />
     <Content Include="Stage04\Day02\22自定义属性设置和获取.html" />
+    <Content Include="Stage04\Day02\23移除某个元素的自定义属性.html" />
     <Content Include="Stage04\Day02\24tab切换案例实现.html" />
     <Content Include="Stage04\Day02\common.js" />
     <Content Include="Stage04\Day02\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
