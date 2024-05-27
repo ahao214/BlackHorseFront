@@ -572,6 +572,7 @@
     <Content Include="Stage04\Day02\06案例点击小图切换大图.html" />
     <Content Include="Stage04\Day02\07案例美女相册.html" />
     <Content Include="Stage04\Day02\08案例列表隔行变色.html" />
+    <Content Include="Stage04\Day02\09案例列表的高亮显示.html" />
     <Content Include="Stage04\Day02\24tab切换案例实现.html" />
     <Content Include="Stage04\Day02\common.js" />
     <Content Include="Stage04\Day02\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
