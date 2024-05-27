@@ -580,6 +580,7 @@
     <Content Include="Stage04\Day02\14总结获取元素的方式.html" />
     <Content Include="Stage04\Day02\15案例div高亮显示.html" />
     <Content Include="Stage04\Day02\16案例模拟搜索框.html" />
+    <Content Include="Stage04\Day02\17案例验证文本框密码长度.html" />
     <Content Include="Stage04\Day02\24tab切换案例实现.html" />
     <Content Include="Stage04\Day02\common.js" />
     <Content Include="Stage04\Day02\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
