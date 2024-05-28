@@ -655,6 +655,7 @@
     <Content Include="Stage04\Day03\06获取相关的节点.html" />
     <Content Include="Stage04\Day03\07获取相关的节点.html" />
     <Content Include="Stage04\Day03\08案例点击按钮设置div中p标签改变背景颜色.html" />
+    <Content Include="Stage04\Day03\09案例节点操作隔行变色.html" />
     <Content Include="Stage04\Day03\common.js" />
     <Content Include="Stage04\Day03\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day03\images\1-small.jpg" />
