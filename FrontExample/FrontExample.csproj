@@ -669,6 +669,7 @@
     <Content Include="Stage04\Day03\20案例动态创建列表.html" />
     <Content Include="Stage04\Day03\21案例点击按钮创建一个表格.html" />
     <Content Include="Stage04\Day03\22元素相关的方法.html" />
+    <Content Include="Stage04\Day03\23只创建一个元素.html" />
     <Content Include="Stage04\Day03\common.js" />
     <Content Include="Stage04\Day03\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day03\images\1-small.jpg" />
