@@ -667,6 +667,7 @@
     <Content Include="Stage04\Day03\18扩展的页面中嵌入广告.html" />
     <Content Include="Stage04\Day03\19第三种元素创建方式.html" />
     <Content Include="Stage04\Day03\20案例动态创建列表.html" />
+    <Content Include="Stage04\Day03\21案例点击按钮创建一个表格.html" />
     <Content Include="Stage04\Day03\common.js" />
     <Content Include="Stage04\Day03\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day03\images\1-small.jpg" />
@@ -756,6 +757,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
+    <Folder Include="Stage04\Day04\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
