@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>第三种元素创建方式</title>
+    <style>
+        div {
+            width: 200px;
+            height: 150px;
+            border: 1px solid pink;
+        }
+    </style>
+</head>
+<body>
+    <input type="button" value="创建P" id="btn" />
+    <div id="dv">
+
+    </div>
+    <script src="common.js"></script>
+
+    <script>
+        myu$("btn").onclick = function () {
+            //创建元素的
+            var pObj = document.createElement("p");
+            setInnnerText(pObj, "这是一个p");
+            //把创建后的子元素追加到父级元素中
+            my$("dv").appendChild(pObj);
+        }
+    </script>
+</body>
+</html>
