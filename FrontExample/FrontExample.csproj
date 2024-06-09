@@ -662,6 +662,7 @@
     <Content Include="Stage04\Day03\13元素创建的不同方式.html" />
     <Content Include="Stage04\Day03\14第一种元素创建的方式.html" />
     <Content Include="Stage04\Day03\15第二种元素创建方式.html" />
+    <Content Include="Stage04\Day03\16案例点击按钮创建一个图片.html" />
     <Content Include="Stage04\Day03\common.js" />
     <Content Include="Stage04\Day03\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day03\images\1-small.jpg" />
