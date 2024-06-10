@@ -744,6 +744,7 @@
     <Content Include="Stage04\Day04\08为同一个元素绑定多个不同事件指向同一个事件处理函数.html" />
     <Content Include="Stage04\Day04\09案例模拟百度搜索大项目.html" />
     <Content Include="Stage04\Day04\10BOM.html" />
+    <Content Include="Stage04\Day04\11系统对话框.html" />
     <Content Include="Stage04\Day04\common.js" />
     <Content Include="Stage04\Day04\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day04\images\1-small.jpg" />
