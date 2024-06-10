@@ -2257,6 +2257,7 @@
     <Content Include="Stage04\Day04\meimei\23_57.jpg" />
     <Content Include="Stage04\Day04\meimei\23_58.jpg" />
     <Content Include="Stage04\Day04\meimei\23_59.jpg" />
+    <Content Include="Stage04\Day05\common.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
