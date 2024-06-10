@@ -740,6 +740,7 @@
     <Content Include="Stage04\Day04\04为元素解绑事件.html" />
     <Content Include="Stage04\Day04\05为元素绑定事件和解绑事件的兼容代码.html" />
     <Content Include="Stage04\Day04\06事件冒泡.html" />
+    <Content Include="Stage04\Day04\07事件阶段.html" />
     <Content Include="Stage04\Day04\common.js" />
     <Content Include="Stage04\Day04\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day04\images\1-small.jpg" />
