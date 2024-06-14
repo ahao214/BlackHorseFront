@@ -2354,6 +2354,17 @@
     <Content Include="Stage04\Day05\images\卡卡西.jpg" />
     <Content Include="Stage04\Day05\images\大蛇丸.jpg" />
     <Content Include="Stage04\Day05\images\百度换肤.png" />
+    <Content Include="Stage04\Day06\03scroll系列.html" />
+    <Content Include="Stage04\Day06\04动画函数封装.html" />
+    <Content Include="Stage04\Day06\05变速动画函数封装.html" />
+    <Content Include="Stage04\Day06\07获取元素计算后的样式属性值.html" />
+    <Content Include="Stage04\Day06\08变速动画函数封装增加任意一个属性.html" />
+    <Content Include="Stage04\Day06\09变速动画函数封装增加任意多个属性.html" />
+    <Content Include="Stage04\Day06\10变速动画函数封装增加任意多个属性和回调函数.html" />
+    <Content Include="Stage04\Day06\11变速动画函数封装增加任意多个属性和回调函数及层级还有透明度.html" />
+    <Content Include="Stage04\Day06\14数组中的方法.html" />
+    <Content Include="Stage04\Day06\16client系列.html" />
+    <Content Include="Stage04\Day06\17案例图片跟着鼠标飞.html" />
     <Content Include="Stage04\Day06\common.js" />
     <Content Include="Stage04\Day06\images\tianshi.gif" />
   </ItemGroup>
