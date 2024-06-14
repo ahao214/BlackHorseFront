@@ -2261,6 +2261,7 @@
     <Content Include="Stage04\Day05\04案例协议按钮禁用.html" />
     <Content Include="Stage04\Day05\05案例div渐变.html" />
     <Content Include="Stage04\Day05\06案例设置div的宽度.html" />
+    <Content Include="Stage04\Day05\07案例移动元素.html" />
     <Content Include="Stage04\Day05\common.js" />
     <Content Include="Stage04\Day05\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
     <Content Include="Stage04\Day05\images\1-small.jpg" />
