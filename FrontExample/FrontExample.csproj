@@ -2285,6 +2285,13 @@
     <Content Include="Stage04\Day05\12无缝连接的轮播图\imagess\03.jpg" />
     <Content Include="Stage04\Day05\12无缝连接的轮播图\imagess\04.jpg" />
     <Content Include="Stage04\Day05\12无缝连接的轮播图\无缝轮播图.html" />
+    <Content Include="Stage04\Day05\13完整的轮播图\common.js" />
+    <Content Include="Stage04\Day05\13完整的轮播图\images\1.jpg" />
+    <Content Include="Stage04\Day05\13完整的轮播图\images\2.jpg" />
+    <Content Include="Stage04\Day05\13完整的轮播图\images\3.jpg" />
+    <Content Include="Stage04\Day05\13完整的轮播图\images\4.jpg" />
+    <Content Include="Stage04\Day05\13完整的轮播图\images\5.jpg" />
+    <Content Include="Stage04\Day05\13完整的轮播图\案例轮播图.html" />
     <Content Include="Stage04\Day05\17案例图片跟着鼠标飞.html" />
     <Content Include="Stage04\Day05\common.js" />
     <Content Include="Stage04\Day05\images\0f000PC3L7v5WMl_8bcCX6.jpg" />
