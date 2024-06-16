@@ -2378,6 +2378,9 @@
     <Content Include="Stage04\Day06\12手风琴案例\images\4.jpg" />
     <Content Include="Stage04\Day06\12手风琴案例\images\5.jpg" />
     <Content Include="Stage04\Day06\12手风琴案例\案例手风琴.html" />
+    <Content Include="Stage04\Day06\13开机动画\common.js" />
+    <Content Include="Stage04\Day06\13开机动画\images\b.jpg" />
+    <Content Include="Stage04\Day06\13开机动画\images\t.jpg" />
     <Content Include="Stage04\Day06\13开机动画\开机动画.html" />
     <Content Include="Stage04\Day06\14数组中的方法.html" />
     <Content Include="Stage04\Day06\15旋转木马案例\旋转木马案例.html" />
