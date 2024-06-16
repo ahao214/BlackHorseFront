@@ -2362,6 +2362,9 @@
     <Content Include="Stage04\Day06\04固定导航栏案例\images\top.png" />
     <Content Include="Stage04\Day06\04固定导航栏案例\固定导航栏案例.html" />
     <Content Include="Stage04\Day06\05变速动画函数封装.html" />
+    <Content Include="Stage04\Day06\06筋斗云案例\common.js" />
+    <Content Include="Stage04\Day06\06筋斗云案例\images\cloud.gif" />
+    <Content Include="Stage04\Day06\06筋斗云案例\images\rss.png" />
     <Content Include="Stage04\Day06\07获取元素计算后的样式属性值.html" />
     <Content Include="Stage04\Day06\08变速动画函数封装增加任意一个属性.html" />
     <Content Include="Stage04\Day06\09变速动画函数封装增加任意多个属性.html" />
