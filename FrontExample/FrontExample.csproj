@@ -2372,6 +2372,7 @@
     <Content Include="Stage04\Day06\10变速动画函数封装增加任意多个属性和回调函数.html" />
     <Content Include="Stage04\Day06\11变速动画函数封装增加任意多个属性和回调函数及层级还有透明度.html" />
     <Content Include="Stage04\Day06\12手风琴案例\案例手风琴.html" />
+    <Content Include="Stage04\Day06\13开机动画\开机动画.html" />
     <Content Include="Stage04\Day06\14数组中的方法.html" />
     <Content Include="Stage04\Day06\16client系列.html" />
     <Content Include="Stage04\Day06\17案例图片跟着鼠标飞.html" />
