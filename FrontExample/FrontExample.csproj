@@ -2383,6 +2383,21 @@
     <Content Include="Stage04\Day06\13开机动画\images\t.jpg" />
     <Content Include="Stage04\Day06\13开机动画\开机动画.html" />
     <Content Include="Stage04\Day06\14数组中的方法.html" />
+    <Content Include="Stage04\Day06\15旋转木马案例\common.js" />
+    <Content Include="Stage04\Day06\15旋转木马案例\css\css.css" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\next.png" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\next_1%281%29.png" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\prev.png" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\prev_1.png" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic1.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic2.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic3.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic4.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic5.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic6.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic7.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic8.jpg" />
+    <Content Include="Stage04\Day06\15旋转木马案例\images\slidepic9.jpg" />
     <Content Include="Stage04\Day06\15旋转木马案例\旋转木马案例.html" />
     <Content Include="Stage04\Day06\16client系列.html" />
     <Content Include="Stage04\Day06\17案例图片跟着鼠标飞.html" />
@@ -2412,6 +2427,7 @@
     <None Include="Stage01\Day10\jd\fonts\icomoon.ttf" />
     <None Include="Stage01\Day10\jd\fonts\icomoon.woff" />
     <None Include="Stage04\Day04\meimei\Thumbs.db" />
+    <None Include="Stage04\Day06\15旋转木马案例\images\Thumbs.db" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stage01\Day06\考题\" />
