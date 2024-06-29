@@ -2421,6 +2421,7 @@
     <Content Include="Stage04\Day07\common.js" />
     <Content Include="Stage04\Day07\07图片跟着鼠标飞新的问题.html" />
     <Content Include="Stage04\Day07\images\bird.png" />
+    <Content Include="Stage05\Day01\common.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Stage01\Day04\images\Thumbs.db" />
