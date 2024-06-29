@@ -2417,6 +2417,7 @@
     <Content Include="Stage04\Day07\12案例表格隔行变色.html" />
     <Content Include="Stage04\Day07\13案例tab切换效果.html" />
     <Content Include="Stage04\Day07\14案例大量字符串拼接效果实现.html" />
+    <Content Include="Stage04\Day07\15案例无刷新评论.html" />
     <Content Include="Stage04\Day07\common.js" />
     <Content Include="Stage04\Day07\07图片跟着鼠标飞新的问题.html" />
     <Content Include="Stage04\Day07\images\bird.png" />
