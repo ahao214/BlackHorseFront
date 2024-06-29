@@ -2406,6 +2406,7 @@
     <Content Include="Stage04\Day07\03案例图片跟着鼠标飞.html" />
     <Content Include="Stage04\Day07\04案例图片跟着鼠标飞终极版本.html" />
     <Content Include="Stage04\Day07\05案例拖拽的对话框.html" />
+    <Content Include="Stage04\Day07\06案例阻止超链接跳转.html" />
     <Content Include="Stage04\Day07\08高清放大镜案例\common.js" />
     <Content Include="Stage04\Day07\08高清放大镜案例\images\big.jpg" />
     <Content Include="Stage04\Day07\08高清放大镜案例\images\small.png" />

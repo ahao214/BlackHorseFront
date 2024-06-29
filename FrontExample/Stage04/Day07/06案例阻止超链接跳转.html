@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>案例阻止超链接跳转</title>
+</head>
+<body>
+
+    <a href="http://www.baidu.com" id="ak">百度</a>
+    <script src="common.js"></script>
+    <script>
+        my$("ak").onclick = function (e) {
+            alert("被点了");
+            return false;
+            //window.event.preventDefault();//阻止浏览器的默认的事件
+        };
+    </script>
+</body>
+</html>
